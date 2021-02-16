@@ -98,6 +98,12 @@ header nav a:hover{ /*efeito ao passar o mouse em cima da palavra*/
     width: 70%;
 }
 
+.box-filme{
+    height: 100%;
+    width: 100%;
+    display: block;
+}
+
 
 
 
