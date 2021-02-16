@@ -104,7 +104,9 @@ header nav a:hover{ /*efeito ao passar o mouse em cima da palavra*/
     display: block;
 }
 
-
+.carrossel-filmes{
+    margin-top: 5px;
+}
 
 
 
